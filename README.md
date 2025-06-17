@@ -4,6 +4,12 @@
 
 ## 🧩 Plugins
 
+### Official Plugins
+
+- [@prettier/plugin-pug](https://www.npmjs.com/package/@prettier/plugin-pug)
+- [@prettier/plugin-ruby](https://www.npmjs.com/package/@prettier/plugin-ruby)
+- [@prettier/plugin-xml](https://www.npmjs.com/package/@prettier/plugin-xml)
+
 ### HTML Plugins
 
 - [prettier-plugin-organize-attributes](https://www.npmjs.com/package/prettier-plugin-organize-attributes)
@@ -17,14 +23,6 @@
 
 - [prettier-plugin-astro](https://www.npmjs.com/package/prettier-plugin-astro)
 - [prettier-plugin-astro-organize-imports](https://www.npmjs.com/package/prettier-plugin-astro-organize-imports)
-
-### Pug Plugins
-
-- [@prettier/plugin-pug](https://www.npmjs.com/package/@prettier/plugin-pug)
-
-### Ruby Plugins
-
-- [@prettier/plugin-ruby](https://www.npmjs.com/package/@prettier/plugin-ruby)
 
 ### TOML Plugins
 
