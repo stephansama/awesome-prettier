@@ -1,12 +1,27 @@
-# Awesome Prettier
+<div align="center">
+
+# Awesome Prettier <img src="https://api.iconify.design/logos:prettier.svg" alt="prettier" height="30">
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+</div>
+
+## Extensions
+
+- [Emacs](https://github.com/prettier/prettier-emacs)
+- [Helix](https://prettier.io/docs/editors#helix)
+- [Vim](https://github.com/prettier/vim-prettier)
+- [Visual Studio Code](https://github.com/prettier/prettier-vscode)
+- [Visual Studio](https://github.com/madskristensen/JavaScriptPrettier)
+- [WebStorm](https://prettier.io/docs/webstorm) (see article)
 
 ## 🧩 Plugins
 
 ### Official Plugins
 
+- [@prettier/plugin-lua](https://www.npmjs.com/package/@prettier/plugin-lua)
 - [@prettier/plugin-pug](https://www.npmjs.com/package/@prettier/plugin-pug)
+- [@prettier/plugin-php](https://www.npmjs.com/package/@prettier/plugin-php)
 - [@prettier/plugin-ruby](https://www.npmjs.com/package/@prettier/plugin-ruby)
 - [@prettier/plugin-xml](https://www.npmjs.com/package/@prettier/plugin-xml)
 
