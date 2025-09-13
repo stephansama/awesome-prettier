@@ -1,8 +1,12 @@
 <div align="center">
 
-# Awesome Prettier <img src="https://api.iconify.design/logos:prettier.svg" alt="prettier" height="30">
-
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+<picture>
+ <source srcset="https://raw.githubusercontent.com/prettier/prettier-logo/refs/heads/master/images/prettier-banner-light.png" media="(prefers-color-scheme: light)"/>
+ <source srcset="https://raw.githubusercontent.com/prettier/prettier-logo/refs/heads/master/images/prettier-banner-dark.png" media="(prefers-color-scheme: dark)"/>
+ <img src="https://raw.githubusercontent.com/prettier/prettier-logo/refs/heads/master/images/prettier-banner-dark.png" alt="stephansama's banner" />
+</picture>
 
 </div>
 
