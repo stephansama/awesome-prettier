@@ -6,7 +6,7 @@
 
 </div>
 
-## Extensions
+## 🔌 Editor Integrations
 
 - [Emacs](https://github.com/prettier/prettier-emacs)
 - [Helix](https://prettier.io/docs/editors#helix)
